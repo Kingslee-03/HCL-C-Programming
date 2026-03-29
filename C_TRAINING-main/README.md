@@ -1,4 +1,0 @@
-# C_TRAINING
-hands on C.
-HANDS ON EXCERCISES.
-
